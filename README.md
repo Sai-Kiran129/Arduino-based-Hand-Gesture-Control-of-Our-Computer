@@ -12,7 +12,7 @@ This project introduces an innovative **Human-Computer Interaction (HCI)** syste
 ##  Technologies Used
 - **Hardware**: Arduino Uno, Ultrasonic Sensors (HC-SR04)
 - **Software**:
-  - Arduino IDE (C++)
+  - Arduino IDE
   - Python (pySerial, PyAutoGUI)
 
 ##  How It Works
